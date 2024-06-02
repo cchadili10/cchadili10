@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![hchadili's 42 stats](https://badge.mediaplus.ma/greenbinary/hchadili)](https://github.com/oakoudad/badge42)
+<a align="center" href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/hchadili" alt="hchadili's 42 stats" /></a>
 <!--
 **cchadili10/cchadili10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
